@@ -38,13 +38,6 @@ Satellite Tracker is a Python-based application that provides real-time tracking
 
 ---
 
-## Recent Repositories
-- [Project 1](https://github.com/your-username/project1)
-- [Project 2](https://github.com/your-username/project2)
-- [Project 3](https://github.com/your-username/project3)
-
----
-
 ## Recent Activities
 <!--START_SECTION:activity-->
 1. 🎉 Merged PR in Gnocchi(https://github.com/gnocchixyz/gnocchi/pull/1353#event-12132562019)
