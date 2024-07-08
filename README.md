@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm [Your Name]
+# Hi there! 👋 I'm Dmitriy
 
 ## About Me
 I am Dmitry, an experienced developer specializing in cloud development, api services, CRM and more. My passion lies in creating innovative solutions and exploring new technologies.
